@@ -1,2 +1,5 @@
-# simple_shell
-0x16. C - Simple Shell
+# 0x16. C - Simple Shell
+
+Command line interpereter
+
+
